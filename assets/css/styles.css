@@ -137,6 +137,7 @@ img {
 .nav__link {
   position: relative;
   color: #fff;
+  padding:10px;
 }
 
 .nav__link:hover {
